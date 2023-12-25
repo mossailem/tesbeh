@@ -1,0 +1,45 @@
+{
+  "short_name": "Tesbeh",
+  "name": "Tesbeh by Muslim Aswaja",
+  "icons": [
+    {
+      "src": "/images/icons/icon.svg",
+      "type": "image/svg+xml",
+      "sizes": "512x512",
+      "purpose": "maskable any"
+    },
+    {
+      "src": "/images/icons/icon-192x192.png",
+      "type": "image/png",
+      "sizes": "192x192",
+      "purpose": "maskable any"
+    },
+    {
+      "src": "/images/icons/icon-512x512.png",
+      "type": "image/png",
+      "sizes": "512x512",
+      "purpose": "maskable any"
+    }
+  ],
+  "id": "/?source=pwa",
+  "start_url": "/index.html",
+  "background_color": "#218c74",
+  "display": "standalone",
+  "scope": "/",
+  "theme_color": "#218c74",
+  "description": "Dzikrullah everywhere",
+  "screenshots": [
+    {
+      "src": "/images/screenshots/mobile.jpeg",
+      "type": "image/png",
+      "sizes": "720x1600",
+      "form_factor": "narrow"
+    },
+    {
+      "src": "/images/screenshots/desktop.png",
+      "type": "image/png",
+      "sizes": "1366x768",
+      "form_factor": "wide"
+    }
+  ]
+}
